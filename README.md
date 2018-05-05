@@ -1,7 +1,7 @@
 # Simple color picker
 A tiny, hackable color picker component.
 
-![Preview](/preview.png)
+![Preview](/preview.PNG)
 
 ## Usage
 
