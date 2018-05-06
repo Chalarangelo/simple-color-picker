@@ -13,4 +13,5 @@ function colorPickerInitialize(id) {
   });
 }
 
-colorPickerInitialize("color-picker-1");
+// Usage example:
+// colorPickerInitialize("color-picker-1");
